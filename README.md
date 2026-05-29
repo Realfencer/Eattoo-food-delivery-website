@@ -148,7 +148,7 @@ CLIENT_URL=http://localhost:3000
 
 * **Project Name:** Eattoo
 * **Tech Stack:** MERN + Stripe + JWT
-* **Developed by:** [sahil ](https://github.com/sahilmd01)
+* **Developed by:** [sliger](https://github.com/Realfencer)
 
 ---
 
